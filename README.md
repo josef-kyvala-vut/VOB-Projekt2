@@ -1,4 +1,4 @@
-# VOB-Projekt2 - Steam Slevy
+# VOB-Projekt2 - Steam slevy
 
 Konzolová aplikace stahuje aktuální slevy her na Steamu z veřejného API (CheapShark) a dál je zpracovává.
 
